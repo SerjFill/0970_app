@@ -27,7 +27,7 @@ function App() {
               aria-orientation="vertical"
             >
               <NavLink className="nav-link" to="profile">
-                Профиль
+                Мой профиль
               </NavLink>
               <NavLink className="nav-link" to="messages">
                 Сообщения
