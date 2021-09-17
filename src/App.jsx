@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="container-fluid">
       <BrowserRouter>
-        <div className="row">
+        <div className="row mt-3">
           <div className="col-3">
             <div
               className="nav flex-column nav-pills"
