@@ -5,7 +5,7 @@ const Profile = () => {
 };
 
 const Messages = () => {
-  return <h2>Чат</h2>;
+  return <h2>Говорилка</h2>;
 };
 
 const Settings = () => {
